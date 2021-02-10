@@ -1,1 +1,2 @@
 fichero de iniciacion del repo lab2
+modificado por Garrido
