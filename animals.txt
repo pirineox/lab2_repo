@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 lion
 tigre
 leopardo
 tortuga
 prueba con tag
+=======
+lion verde
+tigre rojo
+leopardo azul
+tortuga amarilla
+>>>>>>> 8417a1a2eb5d21c7d05bfa66c59e018e2d7c5009
